@@ -1,0 +1,5 @@
+1 distinct
+2 eating
+3 hiding
+4 resting
+5 swimming
