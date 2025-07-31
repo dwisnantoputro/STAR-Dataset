@@ -54,7 +54,7 @@ distinct/ex_Green_distinct_hijau_a_1.avi 1
 distinct/ex_Green_distinct_hijau_b_1.avi 1
 distinct/ex_bun_distinct_lekang_1.avi 1
 distinct/ex_distinct_lekang_d_1.avi 1
-distinct/2938708160397737740_sisik_distinct_C_1.avi 1
+distinct/29abc_sisik_distinct_C_1.avi 1
 distinct/ex_interact_hijau_b_1.avi 1
 distinct/ex_interact_hijau_c_1.avi 1
 distinct/ex_interact_hijau_d_1.avi 1
