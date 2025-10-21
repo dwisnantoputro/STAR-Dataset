@@ -56,6 +56,7 @@ This dataset is intended for use in training, validating, and benchmarking machi
 ## 📜 Citation
 
 If you use this dataset in your research, please cite this paper.
+
 M. D. Putro, A. Sutrisno, I. S. Manembu, I. Y. Chun and T. -H. Oh, "STAR: Sea Turtle Basic Activity Recognizer Network via Efficient Transformer," in IEEE Access, vol. 13, pp. 171356-171370, 2025, doi: 10.1109/ACCESS.2025.3615067.
 
 ---
