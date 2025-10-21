@@ -46,7 +46,7 @@ The **STAR Dataset** (STAR: **S**ea **T**urtle **A**ctivity **R**ecognition) is 
 
 Each data sample is labeled with the corresponding turtle species and the observed activity.
 
-📥 **The dataset can be accessed via [Google Drive](https://drive.google.com/file/d/1azxJN2MC8_D_s6pX_AQy59rnGYygx4-h/view?usp=sharing)** (link will be updated upon full release).
+📥 **The dataset can be accessed via [Google Drive](https://drive.google.com/file/d/1azxJN2MC8_D_s6pX_AQy59rnGYygx4-h/view?usp=sharing)**
 
 ---
 
