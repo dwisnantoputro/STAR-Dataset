@@ -1,15 +1,6 @@
 # 🐢 STAR Dataset for Turtle Activity Recognition
 
 The **STAR Dataset** (STAR: **S**ea **T**urtle **A**ctivity **R**ecognition) is a curated dataset designed to facilitate research in activity recognition for sea turtles. This dataset includes video and/or image sequences of three sea turtle species performing five distinct activities in natural environments.
-
----
-
-## ⚠️ Availability Warning
-
-> **Important Notice:**
-
-> This dataset is **partially available** at the moment. Only half the train, valid, and test frames and videos are available to the public. A **full release** of the dataset will be made publicly **after the related research paper is published**. Please stay tuned for updates. The split configuration between the train, valid, and test is inside this repository under the folder **split**.
-
 ---
 
 ## 📂 Dataset Overview
@@ -64,7 +55,8 @@ This dataset is intended for use in training, validating, and benchmarking machi
 
 ## 📜 Citation
 
-If you use this dataset in your research, please cite the forthcoming paper (citation will be provided upon publication).
+If you use this dataset in your research, please cite this paper.
+M. D. Putro, A. Sutrisno, I. S. Manembu, I. Y. Chun and T. -H. Oh, "STAR: Sea Turtle Basic Activity Recognizer Network via Efficient Transformer," in IEEE Access, vol. 13, pp. 171356-171370, 2025, doi: 10.1109/ACCESS.2025.3615067.
 
 ---
 
